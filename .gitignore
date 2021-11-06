@@ -1,2 +1,5 @@
-.vscode
+.vscode/
+__pychache__/
 input/
+
+test.*
